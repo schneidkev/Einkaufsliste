@@ -5,4 +5,4 @@
 3. Wohnort:		**Furtwangen**
 4. Studiengang:		**AIN**
 
-(https://github.com/schneidkev/Einkaufsliste/blob/test/HFU.png)
+![HFU Logo](https://github.com/schneidkev/Einkaufsliste/blob/test/HFU.png)
