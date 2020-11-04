@@ -5,4 +5,4 @@
 3. Wohnort:		**Furtwangen**
 4. Studiengang:		**AIN**
 
-[HFU.png]
+(HFU.png)
